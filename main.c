@@ -26,5 +26,7 @@ int main() {
     printf("\nCoeficiente m (pendiente): %lf\n", m);
     printf("Coeficiente b (intersección en el eje Y): %lf\n", b);
 
+    añadi esta linea de codigo
+
     return 0;
 }
